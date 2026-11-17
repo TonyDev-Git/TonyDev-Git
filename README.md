@@ -6,15 +6,15 @@
 
 <!-- Presentation -->
 <p>
-  Olá!, me chamo Anthony e pretendo atuar nas áreas de automação, cibersegurança e criação de websites. Atualmente estou focado no estudo de Desenvolvimentro Web e Python.
+  My name is Anthony, and I plan to work in the fields of automation, cybersecurity, and website development. I am currently focused on studying web development and Python.
 
 </p>
 
 <!-- Dropdown -->
 <details>
-  <summary> Mais sobre mim </summary>
+  <summary> More About Me </summary>
 
-  - Tenho 20 anos e atualmente moro no Brasil. Desenvolvi sites comerciais utilizando minha experiência com HTML, CSS, Tailwind CSS, React.js, Node.js e NoSQL.
+  - I am 20 years old and currently live in Brazil. I have developed commercial websites using my experience with HTML, CSS, Tailwind CSS, React.js, Node.js, and NoSQL.
 </details>
 
 <!-- Links -->
@@ -24,7 +24,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Site Proprietário](https://acervotonydev.ai.studio)
+- [Personal Website](https://acervotonydev.ai.studio)
 
 
 <!-- GIF -->
