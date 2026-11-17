@@ -14,7 +14,7 @@
 <details>
   <summary> Mais sobre mim </summary>
 
-  - Tenho 20 anos e atualmente moro no Brasil. Com conhecimentos em desenvolvimento web e back-end utilizando minha experiência com HTML, CSS, Tailwind CSS, React.js, Node.js e NoSQL.
+  - Tenho 20 anos e atualmente moro no Brasil. Desenvolvi sites comerciais utilizando minha experiência com HTML, CSS, Tailwind CSS, React.js, Node.js e NoSQL.
 </details>
 
 <!-- Links -->
