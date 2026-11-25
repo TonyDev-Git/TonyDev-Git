@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-  My name is Anthony, and I plan to work in the fields of automation, cybersecurity, and website development. I am currently focused on studying web development and Python.
+  My name is Anthony, and I plan to work in the fields of automation, cybersecurity, and web development. Right now, I am focusing on studying the fundamentals of web development and Python.
 
 </p>
 
@@ -15,6 +15,8 @@
   <summary> More About Me </summary>
 
   - I am 20 years old and currently live in Brazil. I have developed commercial websites using my experience with HTML, CSS, Tailwind CSS, React.js, Node.js, and NoSQL.
+
+  - I offer technical support as a side job in my free time, while I work full-time as an administrative assistant.
 </details>
 
 <!-- Links -->
